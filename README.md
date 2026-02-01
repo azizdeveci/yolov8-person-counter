@@ -86,3 +86,9 @@ Aynı kişinin birden fazla kez sayılması engellenmiştir
 Sadece person sınıfı dikkate alınır
 
 Takip işlemi persist=True ile kararlı hale getirilmiştir
+
+## 🖼️ Ekran Görüntüsü
+
+Aşağıda sistemin video üzerinde kişi tespiti, takibi ve giriş/çıkış sayımını gerçek zamanlı olarak gerçekleştirdiği bir örnek ekran görüntüsü yer almaktadır.
+
+![Person Counting Demo](assets/demo.png)
